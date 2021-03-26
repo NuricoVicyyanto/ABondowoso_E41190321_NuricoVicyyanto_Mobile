@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Date">
+        <item>Minggu,Juni 10,2020</item>
+        <item>Senin,Juni 11,2020</item>
+        <item>Selasa,Juni 12,2020</item>
+        <item>Rabu,Juni 13,2020</item>
+        <item>Kamis,Juni 14,2020</item>
+    </string-array>
+    <string-array name="Time">
+        <item>01:00pm</item>
+        <item>02:00pm</item>
+        <item>03:00pm</item>
+        <item>04:00pm</item>
+    </string-array>
+</resources>
